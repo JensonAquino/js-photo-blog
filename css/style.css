@@ -1,0 +1,23 @@
+p{
+    background-image: url(../img/wall.png);
+    text-align: center;
+    line-height: 100px;
+    font-size: 70px;
+    font-family:Edu TAS Beginner;
+    font-family: 'Courier New', Courier, monospace
+}
+body{
+    background-image: url(../img/cork.png);
+}
+.photo{
+    max-width: 100%;  
+}
+.card{
+    position: relative;
+}
+.dott{
+    position: absolute;
+    top: -15px;
+    left:50%;
+    transform: translate(-50%);
+}
