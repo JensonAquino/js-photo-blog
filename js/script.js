@@ -22,3 +22,5 @@ axios
         photos = resp.data;
         generatePhoto();
     })
+
+    
